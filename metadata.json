@@ -1,0 +1,7 @@
+{
+  "name": "YOKE - Super AI Orchestrator",
+  "description": "YOKE is a next-generation AI unified system integrating 14 global AI engines with real-time human-thought learning and superior linguistic arts processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
